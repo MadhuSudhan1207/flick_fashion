@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "Devara Hoodies and T-Shirts",
+        "desc":"Fully Filmy T-Shirts, Hoodies, Kids Tshirts, Posters Online",
+        "price": "499",
+        "image": "//images/1.PNG"
+    },
+    {
+        "id": "2",
+        "name": "RRR Hoodies",
+        "desc":"Fully Filmy on X: 🚨 LAUNCHING THE ALL NEW #RRR HOODIES 🚨 All @tarak9999 & @AlwaysRamCharan",
+        "price": "999",
+        "image": "/images/2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Salaar Hoodie Charcoal Grey",
+        "desc":" Fit Type: Regular* Colour : Charcoal Grey* Material : Premium Cotton* Sleeve",
+        "price": "899",
+        "image": "/images/3.PNG"
+    },
+    {
+        "id": "4",
+        "name": "SARKARU VARI PAATA T-Shirts",
+        "desc":"Slim fit, so size up if you prefer a regular fit, or go two sizes up for a baggy fit",
+        "price": "1195",
+        "image": "/images/4.PNG"
+    },
+    {
+        "id": "5",
+        "name": "Kalki 2898 AD Hoodies",
+        "desc":"Celebrat898e this Diwali in the best way we know how – with coffee...",
+        "price": "1299",
+        "image": "/images/5.PNG"
+    },
+    {
+        "id": "6",
+        "name": "Atluntadhi Manathoni",
+        "desc":"DJ Tillu Hoodies",
+        "price": "499",
+        "image": "/images/6.jpeg"
+    },
+    {
+        "id": "7",
+        "name": "Tha Paathukalaam Hoodie",
+        "desc":"VIKRAM movie Kamal Hasan Hoodie",
+        "price": "1199",
+        "image": "/images/7.PNG"
+    },
+    {
+        "id": "8",
+        "name": "Kalki 2898 AD BUJJI Printed tshirt",
+        "desc":"Kalki 2898 AD Futuristic Legends Black Oversized T-Shirt",
+        "price": "362",
+        "image": "/images/8.PNG"
+    }
+]
