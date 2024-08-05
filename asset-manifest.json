@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/flick_fashion/static/css/main.08afad0e.css",
+    "main.js": "/flick_fashion/static/js/main.4a1408f5.js",
+    "static/media/logo.png": "/flick_fashion/static/media/logo.3d298541fe7b0a2db237.png",
+    "static/media/cart-empty.jpg": "/flick_fashion/static/media/cart-empty.19daf4e79604b06d9ebe.jpg",
+    "index.html": "/flick_fashion/index.html",
+    "main.08afad0e.css.map": "/flick_fashion/static/css/main.08afad0e.css.map",
+    "main.4a1408f5.js.map": "/flick_fashion/static/js/main.4a1408f5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08afad0e.css",
+    "static/js/main.4a1408f5.js"
+  ]
+}
